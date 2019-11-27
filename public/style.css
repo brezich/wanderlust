@@ -110,7 +110,6 @@ footer {
 }
 
 .sectiontitle {
-  height: 70px;
   width: 300px;
   align-items: center;
 }
@@ -133,7 +132,7 @@ footer {
 #weather {
   display: flex;
   justify-content: space-around;
-  min-height: 350px;
+  min-height: 150px;
 }
 
 #city {
